@@ -1,0 +1,3 @@
+file = open("readme.txt", 'w')
+file.write("idk idc")
+closefile()
