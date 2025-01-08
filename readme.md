@@ -12,5 +12,7 @@ inside. The implementation consists of the following directory:
   | -/structures
   | -/implementations
 ```
-#### Authors
-Arsla Tanveer; Aitzaz Imtiaz.
+## Authors
+<a href="https://github.com/ArslaTanveer/Algorithms/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ArslaTanveer/Algorithms" alt="contrib.rocks image" />
+</a>
