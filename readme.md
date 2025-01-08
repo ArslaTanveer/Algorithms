@@ -12,3 +12,5 @@ inside. The implementation consists of the following directory:
   | -/structures
   | -/implementations
 ```
+#### Authors
+Arsla Tanveer; Aitzaz Imtiaz.
