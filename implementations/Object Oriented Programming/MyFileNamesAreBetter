@@ -1,0 +1,25 @@
+def procedureIDK():
+    print("I")
+    print("H")
+    print("Y")
+    def procedure():
+        print("*finding my slippers to shoot at you*")
+    procedure()
+
+procedureIDK()
+
+
+class idk:
+    class yourMom:
+        def __init__(self):
+            self.smth = 0
+    def __init__(self):
+        self.idc = 0
+        self.idgaf = 0
+        self.anything = self.yourMom()
+
+
+a = idk()
+a.smth = 24
+print(a.smth)
+print(a.anything.smth)
