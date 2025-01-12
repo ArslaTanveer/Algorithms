@@ -9,8 +9,8 @@ inside. The implementation consists of the following directory:
 ---
   |
   | -/.github
-  | -/structures
   | -/implementations
+  | -/structures
 ```
 ## Authors
 <a href="https://github.com/ArslaTanveer/Algorithms/graphs/contributors">
